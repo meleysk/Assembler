@@ -1,8 +1,6 @@
  // Name: Meley Kifleyesus
-// NetID: mk198716
-// email: meleysennaycollege@gmail.com
 
-//Program 4: Assembler for TMIPS. 
+
 //given a .asm file, the program producs the symbol table(.sym), object code(.obj) if there are no errors
 //and an error file(.err) if errors are found.
 
